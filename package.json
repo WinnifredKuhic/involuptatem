@@ -1,0 +1,38 @@
+{
+  "name": "involuptatem",
+  "version": "1.0.0",
+  "description": "JS/TS client library for Membrane RTC Engine.",
+  "license": "Apache-2.0",
+  "author": "BuckSawayn",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/WinnifredKuhic/involuptatem.git/issues"
+  },
+  "homepage": "https://github.com/WinnifredKuhic/involuptatem.git",
+  "keywords": [
+    "webrtc",
+    "odio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WinnifredKuhic/involuptatem.git"
+  },
+  "devDependencies": {
+    "@types/events": "^3.0.0",
+    "@types/uuid": "^8.3.1",
+    "eslint": "^7.21.0",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "typed-emitter": "^2.1.0",
+    "typedoc": "^0.23.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "events": "^3.3.0",
+    "uuid": "^8.3.2"
+  }
+}
